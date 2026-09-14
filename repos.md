@@ -8,6 +8,10 @@ npx skills add https://github.com/mattpocock/skills --skill domain-modeling
 npx skills add https://github.com/mattpocock/skills --skill diagnosing-bugs
 npx skills add https://github.com/mattpocock/skills --skill code-review
 npx skills add https://github.com/remotion-dev/skills --skill remotion-best-practices
+npx skills add https://github.com/github/awesome-copilot --skill create-readme
+npx skills add https://github.com/github/awesome-copilot --skill postgresql-optimization
+npx skills add https://github.com/github/awesome-copilot --skill sql-optimization
+npx skills add https://github.com/github/awesome-copilot --skill web-design-reviewer
 npx skills add https://github.com/juliusbrussee/caveman --skill caveman
 npx skills add anthropics/financial-services
 npx skills add https://github.com/github/awesome-copilot --skill git-commit
